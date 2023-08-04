@@ -36,8 +36,4 @@ You can install these libraries using pip.
 
 ## Contributors
 
-James Yik-Kien Tse
-Jiayun Kang
-Gagan Kumar B. A.
-Atsumi Hirose
-Qianxi Feng
+Atsumi Hirose, Gagan Kumar B. A., James Yik-Kien Tse, Jiayun Kang, Qianxi Feng.
