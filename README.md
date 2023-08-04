@@ -32,7 +32,7 @@ This project uses the following Python libraries:
 5. Keras
 6. seaborn
 
-You can install these libraries using pip. To use the project Python scripts, The Jupyter notebooks contain the Python codes for the corresponding supervised learning method. The `Model_Ensembles` file contains all the experienced models and the combined stacking model to compare the different supervised learning methods.
+You can install these libraries using pip. To use the project Python scripts, The Jupyter notebooks contain the Python codes for the corresponding supervised learning method. The `Model_Ensembles.ipynb` file contains all the experienced models and the combined stacking model to compare the different supervised learning methods. You can start by using the data exploration scripts to understand the dataset. Lastly, the `Project Report` documents our examination on the dataset and the results.
 
 ## Contributors
 
