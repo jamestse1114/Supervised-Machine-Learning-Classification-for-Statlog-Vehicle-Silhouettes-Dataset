@@ -1,6 +1,6 @@
 # Supervised-Machine-Learning-Classification-for-Statlog-Vehicle-Silhouettes-Dataset
 
-This repository contains the code and resources for a project focused on supervised machine learning tasks using the Statlog (Vehicle Silhouettes) dataset. This dataset includes attributes of real-world images of various vehicles, and the objective is to categorize these vehicles based on their silhouettes.
+This repository contains the code and resources for a project focused on supervised machine learning tasks using the Statlog (Vehicle Silhouettes) dataset. This dataset includes real-world images of various vehicles, and the objective is to categorize these vehicles based on their silhouettes.
 
 ## Project Description
 
@@ -8,7 +8,9 @@ The project applies several machine-learning techniques to classify the vehicles
 
 ## Dataset
 
-The Statlog (Vehicle Silhouettes) dataset consists of 18 unique features, each describing a different aspect of a vehicle's silhouette. These features provide rich information to help train machine learning models to recognize multiple patterns and make accurate predictions.
+The dataset used in this project comes from the Turing Institute, Glasgow, Scotland, and was initially gathered in 1986-87. It consists of 946 examples of four types of vehicles: Opel, Saab, Bus, and Van. Each vehicle is described by 18 attributes, extracted from the silhouettes by the Hierarchical Image Processing System (HIPS) extension BINATTS.
+
+The features include a combination of classical moments-based measures such as scaled variance, skewness, and kurtosis about the major/minor axes, and heuristic measures such as hollows, circularity, rectangularity, and compactness.
 
 ## Methodology
 
