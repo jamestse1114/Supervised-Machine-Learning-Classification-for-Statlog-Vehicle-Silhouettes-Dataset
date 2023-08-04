@@ -21,7 +21,7 @@ The approach to this project involves:
 3. **Visual Analysis:** The images of the vehicle silhouettes in the dataset are manually inspected to identify any visible patterns.
 4. **Supervised learning:** The machine learning approaches are utilized to test and classify the dataset, and metrics are compared to evaluate the effectiveness of the methods.
 
-## Dependencies
+## Usage
 
 This project uses the following Python libraries:
 
@@ -32,7 +32,7 @@ This project uses the following Python libraries:
 5. Keras
 6. seaborn
 
-You can install these libraries using pip.
+You can install these libraries using pip. To use the project Python scripts, The Jupyter notebooks contain the Python codes for the corresponding supervised learning method. The `Model_Ensembles` file contains all the experienced models and the combined stacking model to compare the different supervised learning methods.
 
 ## Contributors
 
